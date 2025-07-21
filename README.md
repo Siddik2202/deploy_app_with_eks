@@ -2,6 +2,6 @@
 
 1. prerequisites:
 
-        i) You Should have kubectl, eksctl, AWS CLI
+    i) You Should have kubectl, eksctl, AWS CLI
 
-         ii) you can install this from official documentation and need to configure your aws.
+    ii) you can install this from official documentation and need to configure your aws.
