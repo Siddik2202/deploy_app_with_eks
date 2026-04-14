@@ -101,6 +101,8 @@
 
                 kubectl get deployment -n kube-system aws-load-balancer-controller
 
+     Once status of ALB is active you can open DNS on browser. As a Devops Enginer we just create Pod -> Deployment -> service -> Ingress and Ingress cntroller (create service account and attach with IAM profile or Role). And Rest is create and maintaind by Ingress Controller.
+
  
 
 
